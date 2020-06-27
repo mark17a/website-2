@@ -136,12 +136,12 @@ export default {
 
 .primary-color {
   background-color: #192a56;
-  background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+  background-image: url("~assets/texture/gplay.png");
 }
 
 .secondary-color {
   background-color: #c70039;
-  background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+  background-image: url("~assets/texture/cartographer.png");
 }
 
 .clip-hole {
